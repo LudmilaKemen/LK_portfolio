@@ -38,7 +38,7 @@
 ### 🔌 API Testing Project
 Тестирование REST API  
 
-👉 [Смотреть проект](ссылка)
+👉 [Смотреть проект](https://github.com/LudmilaKemen/LK_portfolio/blob/main/checklist.md)
 
 ---
 
