@@ -25,8 +25,7 @@
 ✔ тест-кейсы  
 ✔ UX анализ  
 
-👉 [Смотреть проект](ссылка)
-
+👉 [Смотреть проект] https://github.com/LudmilaKemen/LK_portfolio/blob/main/bug_report_2.md
 ---
 
 ### 🛒 E-commerce Testing Project
